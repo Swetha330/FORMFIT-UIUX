@@ -20,3 +20,19 @@ View Live FORMFIT Website – https://formfit-green-motion.lovable.app
 
 ## Portfolio
 View my porfolio-https://swethadevara.framer.website/
+## Project Screenshots
+
+### FORMFIT Logo
+![FORMFIT Logo](formfitlogo.png)
+
+### Homepage Design
+![Homepage](homeff.png)
+
+![Homepage Design 2](Home%20Page%20ff.png)
+
+![Homepage Design 3](Home%20Page%20ff3.png)
+
+![Homepage Design 4](Home%20Page%20ff%201.png)
+
+### Login Page
+![Login Page](logoff.png)
